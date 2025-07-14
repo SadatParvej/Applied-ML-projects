@@ -9,7 +9,7 @@ This repository showcases a collection of practical machine learning application
 ### 1. 🌄 Panorama from Video
 **Task:** Stitch a rotating video into a single panoramic image  
 **Tech:** OpenCV, NumPy, Matplotlib  
-📂 [`-panorama-from-video/`](./panorama-from-video)
+📂 [`panorama-from-video/`](./panorama-from-video)
 
 ---
 
@@ -23,7 +23,7 @@ This repository showcases a collection of practical machine learning application
 ### 3. 🕒 Timestamp from Speech
 **Task:** Find the timestamp in a video where a specific spoken phrase appears  
 **Tech:** OpenAI Whisper, RapidFuzz  
-📂 [`transcription-timestamp-search/`](./transcription-timestamp-search)
+📂 [`timestamp-search/`](./timestamp-search)
 
 ---
 
