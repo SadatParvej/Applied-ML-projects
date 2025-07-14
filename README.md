@@ -9,7 +9,7 @@ This repository showcases a collection of practical machine learning application
 ### 1. 🌄 Panorama from Video
 **Task:** Stitch a rotating video into a single panoramic image  
 **Tech:** OpenCV, NumPy, Matplotlib  
-📂 [`video-panorama-stitching/`](./video-panorama-stitching)
+📂 [`-panorama-from-video/`](./panorama-from-video)
 
 ---
 
